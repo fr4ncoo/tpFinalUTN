@@ -1,4 +1,4 @@
-# 🛒 Proyecto Final React - E-commerce
+# 🛒 TP Integrador Final
 
 Este proyecto es una **aplicación web de e-commerce** desarrollada con **React**, que permite visualizar productos, filtrarlos por categorías, buscarlos por nombre, ver el detalle de cada producto, agregarlos al carrito y simular una compra.  
 
@@ -38,4 +38,4 @@ npm run dev
 
 ## 🌐 Desplegado  en Netlify!
 Este proyecto puede desplegarse fácilmente en [Netlify](https://www.netlify.com/) usando:
-- **Link:** *[(vacío)](https://www.netlify.com/)*
+- **Link:** *[(Tienda UTN)](https://tiendautn.netlify.app/)*
