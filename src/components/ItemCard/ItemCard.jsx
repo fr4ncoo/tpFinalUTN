@@ -33,7 +33,7 @@ function Rating({ rating = 0, numReviews = 0 }) {
           return <BsStar key={i} style={{ marginLeft: "1" }} />;
         })}
       <Box as="span" ml="2" color="gray.600" fontSize="sm">
-        {numReviews} review{numReviews > 1 && "s"}
+        {numReviews} Valoracione{numReviews > 1 && "s"}
       </Box>
     </Box>
   );
@@ -77,7 +77,7 @@ export const ItemCard = ({ data }) => {
             <Box display="flex" alignItems="baseline">
               {data.isNew && (
                 <Badge rounded="full" px="2" fontSize="0.8em" colorScheme="red">
-                  New
+                  NUEVO
                 </Badge>
               )}
             </Box>
